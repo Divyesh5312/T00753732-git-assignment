@@ -1,0 +1,1 @@
+I learned how branching, conflict resolution, and cloning work in Git.
